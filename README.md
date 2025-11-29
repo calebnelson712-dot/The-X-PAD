@@ -1,5 +1,6 @@
 # The-X-PAD
 A  Seeed Studio XIAO RP2040 based macropad
+
 X-PAD is a custom macropad that has:
 
 - 16 Hotswappable, MX Style Keys
