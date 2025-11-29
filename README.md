@@ -25,3 +25,25 @@ X-PAD is a custom macropad that has:
 ![image](https://github.com/user-attachments/assets/734ea4a3-1b40-48db-bf44-4e9677ac55a2)
 ![image](https://github.com/user-attachments/assets/b47a5d32-935a-477b-b466-c62f487449c9)
 ![image](https://github.com/user-attachments/assets/07a2189b-bf11-4d21-ad43-3dfbe2aeb24a)
+
+
+# Bill Of Materials
+Here's the BOM for my macropad:
+| Name                               | Quantity |
+|----------------------------------- |----------|
+| Seeed Studio XIAO RP2040           | 1        |
+| MCP23017 I2C I/O Expander          | 1        |
+| BSS138 MOSFET                      | 1        |
+| 1N4148 Diode (Through-hole)        | 16       |
+| MX-Style Switch                    | 16       |
+| Kailh MX-Style Hotswap Socket      | 16       |
+| Blank DSA Keycap (White)           | 16       |
+| EC11 With Switch                   | 2        |
+| SK6812 MINI-E RGB LED              | 16       |
+| 0.1uF 0805 Ceramic Capacitor       | 16       |
+| 10kΩ 0805 Resistor                 | 4        |
+| 0.91" OLED I2C Display             | 1        |
+| M3x16mm Screw                      | -        |
+| M3x5mx4mm Heatset Insert           | -        |
+| 3D Printed Case (2 Parts)          | 1        |
+| Main PCB                           | MOQ: 5   |
