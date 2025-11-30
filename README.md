@@ -26,7 +26,10 @@ X-PAD is a custom macropad that has:
 ![image](https://github.com/user-attachments/assets/b47a5d32-935a-477b-b466-c62f487449c9)
 ![image](https://github.com/user-attachments/assets/07a2189b-bf11-4d21-ad43-3dfbe2aeb24a)
 
-
+## 3D CAD
+![image]( https://github.com/calebnelson712-dot/The-X-PAD/blob/main/images/HackPad_Step.png)
+![image](https://github.com/calebnelson712-dot/The-X-PAD/blob/main/images/HackPad_Step1.png)
+![image](https://github.com/calebnelson712-dot/The-X-PAD/blob/main/images/HackPad_Step2.png)
 # Bill Of Materials
 Here's the BOM for my macropad:
 | Name                               | Quantity |
