@@ -5,10 +5,9 @@
 	(uuid "82eda558-2fa4-40e9-9147-1e6cadc7a6d3")
 	(paper "A4")
 	(title_block
-		(title "HackPad V3")
+		(title "X-PAD")
 		(date "2025-05-07")
 		(rev "V0.2")
-		(company "Cyber Link -- A Hack Club")
 		(comment 1 "A simple (not so simple) macropad with as much as features that I can do for my first build")
 		(comment 2 "2 Rotary Encoders, a 0.91\" OLED, and more!")
 		(comment 3 "16 MX Hotswappable Switches with SK6812MINI-E RGB Underglow")
