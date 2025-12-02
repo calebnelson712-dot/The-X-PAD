@@ -1,5 +1,5 @@
 # The-X-PAD
-A  Seeed Studio XIAO RP2040 based macropad
+A  Seeed Studio XIAO RP2040 based macropad within 100 by 100
 
 X-PAD is a custom macropad that has:
 
